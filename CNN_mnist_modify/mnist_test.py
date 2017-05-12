@@ -8,7 +8,7 @@ Project: https://github.com/tgjeon/cnnForMnist
 Train instances: 42000 number images with vector format (1 number = 1 x 748)
 Test instances: 20000 number images with vector format  (1 number = 1 x 748)
 '''
-
+#tset
 import numpy as np
 import pandas as pd
 import sys
